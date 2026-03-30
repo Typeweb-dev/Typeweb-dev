@@ -81,22 +81,6 @@ Aquí encontrarás contenido práctico, visual y fácil de entender para aprende
 
 ---
 
-## 🤝 Contacto
-
-<p align="center">
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Contactar_por_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Contactar_por_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Contactar_por_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 Objetivo
 
 Compartir contenido útil, visual y práctico para quienes desean aprender desarrollo web y crear proyectos modernos con estilo profesional.
