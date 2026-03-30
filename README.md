@@ -22,10 +22,10 @@ Aquí encontrarás contenido práctico, visual y fácil de entender para aprende
 
 ## 💡 ¿Qué compartimos?
 
-- Elementos basicos UI
-- Interfaces limpias y atractivas
-- Código base para proyectos web
-- Recursos útiles para principiantes y desarrolladores
+- Elementos básicos UI  
+- Interfaces limpias y atractivas  
+- Código base para proyectos web  
+- Recursos útiles para principiantes y desarrolladores  
 
 ---
 
@@ -57,24 +57,24 @@ Aquí encontrarás contenido práctico, visual y fácil de entender para aprende
 
 ## 📌 En este espacio encontrarás
 
-- Ejemplos de webs
-- Componentes reutilizables
-- Diseños responsivos
-- Mini proyectos para practicar
-- Código simple y directo para la comunidad
+- Ejemplos de webs  
+- Componentes reutilizables  
+- Diseños responsivos  
+- Mini proyectos para practicar  
+- Código simple y directo para la comunidad  
 
 ---
 
 ## 📲 Sígueme en redes
 
 <p align="center">
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61563749188493" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/" target="_blank">
+  <a href="https://www.tiktok.com/@typedevnic" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
