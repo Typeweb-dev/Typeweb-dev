@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>👋 Hola, soy <span style="color:#7c3aed;">Type.devweb</span></h1>
+  <h1><span style="color:#7c3aed;">Type.devweb</span></h1>
   <h3>Landing Pages y soluciones SaaS para aprender, crear y crecer 🚀</h3>
 </div>
 
@@ -14,23 +14,22 @@
 
 ## ✨ Sobre Type.devweb
 
-**Type.devweb** es un emprendimiento enfocado en el desarrollo de **landing pages modernas** y proyectos tipo **SaaS**, compartiendo código básico, ideas y recursos para programadores y seguidores en TikTok.
+**Type.devweb** es una empresa enfocado en el desarrollo de **webs modernas** y proyectos **SaaS**, compartiendo código básico, ideas y recursos para programadores y seguidores en TikTok.
 
 Aquí encontrarás contenido práctico, visual y fácil de entender para aprender y construir proyectos reales.
 
 ---
 
-## 💡 ¿Qué comparto?
+## 💡 ¿Qué compartimos?
 
-- Landing pages modernas y responsivas
+- Elementos basicos UI
 - Interfaces limpias y atractivas
 - Código base para proyectos web
-- Ideas para startups y SaaS
 - Recursos útiles para principiantes y desarrolladores
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías que utilizamos
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +57,7 @@ Aquí encontrarás contenido práctico, visual y fácil de entender para aprende
 
 ## 📌 En este espacio encontrarás
 
-- Ejemplos de landing pages
+- Ejemplos de webs
 - Componentes reutilizables
 - Diseños responsivos
 - Mini proyectos para practicar
