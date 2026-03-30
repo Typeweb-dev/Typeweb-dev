@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1><span style="color:#7c3aed;">Type.devweb</span></h1>
-  <h3>Landing Pages y soluciones SaaS para aprender, crear y crecer 🚀</h3>
+  <h3>Paginas Webs y soluciones SaaS para aprender, crear y crecer 🚀</h3>
 </div>
 
 <div align="center">
